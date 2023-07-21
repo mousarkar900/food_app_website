@@ -1,0 +1,51 @@
+body{
+    background-image:url("background.jpeg");
+    text-align: center;
+    }
+    h1{
+    color: rgb(104, 104, 104);
+    font-size: 200%;
+    text-align:left;
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-family:Okra, Helvetica, sans-serif;
+    }
+    select{
+    font-size: 150%;
+    color: darkgray;
+    background-color: white;
+    }
+    input{
+    font-size: 150%;
+    color: darkgray;
+    background-color: white;
+    }
+    center{
+    background-color: rgba(255, 255, 255, 0.97);
+    display: inline-block;
+    margin-top: 90px;
+     border-radius:7px;
+    }
+    .otp{
+    background-color: rgb(252, 61, 99);
+    color: white;
+    font-size: 150%;
+    border: none;
+    outline:none;
+    border-radius: 5px;
+    }
+    .cont{
+    background-color: white;
+    font-size: 150%;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: gray;
+    }
+    .create{
+    color: crimson;
+    border: none;
+    outline: none;
+    font-size: 100%;
+    }
+   
